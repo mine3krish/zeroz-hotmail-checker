@@ -1,0 +1,2 @@
+curl_cffi>=0.9
+customtkinter>=5.2
