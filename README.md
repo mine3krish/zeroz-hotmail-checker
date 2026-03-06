@@ -116,7 +116,7 @@ zeroz-hotmail-checker/
 
 Join the Telegram channel for updates, support, and discussion:
 
-[![Telegram](https://img.shields.io/badge/Telegram-COSMO%20UNION-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zerozpanel)
+[![Telegram](https://img.shields.io/badge/Telegram-ZEROZ%20PANEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zerozpanel)
 
 ## Contributing
 
