@@ -42,8 +42,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/mine3krish/zeroz-hotmail-checker.git
-cd zeroz-checker
+git clone https://github.com/mine3krish/zeroz-hotmail-checker
+cd zeroz-hotmail-checker
 
 # Install dependencies
 pip install -r requirements.txt
@@ -97,7 +97,7 @@ user:pass@host:port
 ## Project Structure
 
 ```
-zeroz-checker/
+zeroz-hotmail-checker/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
