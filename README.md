@@ -9,7 +9,7 @@
 > **Looking for the EXE build, Premium version, or latest releases?**
 > Join the Telegram channel for downloads and updates:
 >
-> [![Download on Telegram](https://img.shields.io/badge/Download_Latest-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zerozpanel)
+> [![Download on Telegram](https://img.shields.io/badge/Download_Latest-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+dCERikNx30VmMDdl)
 
 ---
 
@@ -116,7 +116,7 @@ zeroz-hotmail-checker/
 
 Join the Telegram channel for updates, support, and discussion:
 
-[![Telegram](https://img.shields.io/badge/Telegram-ZEROZ%20PANEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zerozpanel)
+[![Telegram](https://img.shields.io/badge/Telegram-ZEROZ%20PANEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+dCERikNx30VmMDdl)
 
 ## Contributing
 
